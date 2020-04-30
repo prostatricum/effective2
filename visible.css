@@ -1,0 +1,12 @@
+body {
+	font-family:verdana, arial, helvetica, sans-serif;
+	font-size: 150%;
+	color:#FFFFFF;
+	background-color:#333333;
+       }
+a:link {
+	color: #33FFFF;
+}
+a:visited {
+	color: #FF66FF;
+}
